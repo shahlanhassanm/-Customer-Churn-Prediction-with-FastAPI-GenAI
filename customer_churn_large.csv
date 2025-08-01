@@ -1,0 +1,101 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,MonthlyCharges,TotalCharges,Churn
+Male,0,Yes,Yes,24,Yes,DSL,25.35,399.48,No
+Female,1,No,Yes,36,No,Fiber optic,115.85,4703.85,No
+Male,1,Yes,Yes,38,Yes,Fiber optic,104.71,2094.86,Yes
+Male,1,Yes,No,25,No,DSL,55.49,2914.19,No
+Male,1,No,No,18,No,No,115.68,4597.5,No
+Female,1,Yes,Yes,66,No,DSL,87.68,432.09,Yes
+Male,1,No,No,54,No,Fiber optic,68.25,4385.77,Yes
+Male,1,No,No,35,Yes,Fiber optic,69.3,2766.91,Yes
+Male,1,No,No,61,No,DSL,28.33,840.87,No
+Female,0,Yes,No,41,No,No,29.17,2068.05,Yes
+Male,1,Yes,No,33,No,Fiber optic,80.24,3892.46,Yes
+Male,0,Yes,Yes,68,Yes,Fiber optic,75.37,2412.24,Yes
+Male,1,Yes,No,33,No,Fiber optic,41.27,4926.72,No
+Male,1,Yes,Yes,14,Yes,DSL,114.62,1896.16,Yes
+Female,0,Yes,Yes,21,No,Fiber optic,98.13,3752.9,No
+Male,1,Yes,No,48,Yes,No,31.35,1977.09,No
+Female,0,No,Yes,20,Yes,Fiber optic,113.09,4149.24,Yes
+Female,1,Yes,Yes,8,No,Fiber optic,117.42,2854.03,Yes
+Female,1,No,Yes,7,Yes,No,119.59,336.29,No
+Male,0,Yes,No,67,No,Fiber optic,25.59,203.37,Yes
+Female,1,Yes,No,17,No,DSL,93.7,686.58,Yes
+Male,0,Yes,Yes,33,No,DSL,74.59,88.09,No
+Female,1,No,No,48,Yes,DSL,90.58,395.29,No
+Female,0,No,No,59,Yes,No,116.87,3464.74,Yes
+Female,0,No,No,22,No,Fiber optic,88.8,2681.04,No
+Female,1,No,No,30,No,DSL,103.7,3754.56,Yes
+Female,1,Yes,Yes,38,Yes,No,106.69,4567.57,Yes
+Female,0,No,Yes,51,No,Fiber optic,103.85,2934.04,Yes
+Female,1,Yes,No,54,No,No,62.61,3636.08,No
+Female,1,Yes,No,8,No,DSL,42.26,3790.26,Yes
+Male,1,No,Yes,27,Yes,DSL,59.67,1901.7,Yes
+Male,0,No,Yes,27,Yes,DSL,109.19,1220.6,Yes
+Female,0,No,No,21,Yes,No,34.66,1041.13,No
+Female,0,No,Yes,30,No,No,71.33,1272.18,No
+Female,0,No,No,28,No,DSL,43.32,1388.16,No
+Male,0,No,No,64,No,No,78.13,1051.99,No
+Female,0,No,Yes,69,Yes,DSL,106.31,4393.54,No
+Male,0,No,Yes,61,No,DSL,108.04,3789.86,Yes
+Male,0,Yes,No,48,No,Fiber optic,43.67,253.54,No
+Male,0,No,No,19,No,No,110.77,1357.99,No
+Male,1,No,Yes,4,No,DSL,79.19,130.48,No
+Male,0,Yes,No,35,Yes,DSL,55.02,2500.86,Yes
+Female,1,No,Yes,64,Yes,No,90.82,2391.53,No
+Female,1,Yes,No,49,No,Fiber optic,68.17,4160.23,No
+Female,1,Yes,Yes,17,Yes,Fiber optic,57.8,1552.73,Yes
+Female,0,No,Yes,44,Yes,DSL,90.51,4085.6,No
+Female,0,Yes,Yes,30,No,No,44.87,4840.51,Yes
+Male,0,Yes,No,46,No,Fiber optic,53.03,460.27,Yes
+Female,0,Yes,No,6,Yes,No,63.45,3963.25,Yes
+Female,1,Yes,Yes,37,No,No,45.37,2957.98,Yes
+Male,0,No,No,24,Yes,DSL,60.52,2410.63,Yes
+Female,0,Yes,Yes,46,No,Fiber optic,77.15,2114.27,No
+Male,0,No,Yes,53,Yes,DSL,94.1,3927.65,Yes
+Female,0,Yes,No,60,No,Fiber optic,96.72,3204.02,Yes
+Male,0,Yes,No,63,Yes,Fiber optic,102.28,4029.12,No
+Female,1,Yes,Yes,32,Yes,Fiber optic,94.42,4517.69,Yes
+Female,0,Yes,No,33,Yes,Fiber optic,88.1,3093.97,No
+Male,1,No,No,67,No,Fiber optic,43.75,4902.7,No
+Male,0,No,Yes,18,Yes,No,60.02,3048.28,No
+Male,1,Yes,Yes,25,Yes,DSL,67.77,3190.49,Yes
+Male,0,Yes,No,54,No,No,28.29,2782.98,Yes
+Male,0,No,Yes,58,No,Fiber optic,72.84,473.19,Yes
+Male,1,Yes,Yes,67,Yes,DSL,63.63,3637.46,No
+Male,1,Yes,No,46,Yes,Fiber optic,100.21,2746.28,Yes
+Male,1,Yes,Yes,24,No,DSL,117.79,2265.53,Yes
+Female,0,No,Yes,32,No,No,75.6,4554.15,Yes
+Female,1,No,No,47,No,DSL,52.27,1503.84,No
+Male,0,No,No,23,No,DSL,24.34,2627.54,No
+Female,0,Yes,Yes,66,No,DSL,112.46,3494.26,Yes
+Female,1,Yes,Yes,27,Yes,DSL,111.91,3986.43,Yes
+Female,1,No,No,2,No,DSL,45.3,2307.55,Yes
+Female,0,No,No,17,Yes,Fiber optic,89.54,4213.62,Yes
+Male,0,No,No,33,Yes,DSL,27.54,3849.21,No
+Female,1,No,No,9,Yes,DSL,36.62,349.86,No
+Male,1,Yes,Yes,43,No,No,41.68,248.39,No
+Female,1,No,No,48,Yes,DSL,49.45,3111.61,No
+Female,0,Yes,No,39,Yes,No,119.58,1750.12,Yes
+Female,0,No,Yes,42,No,Fiber optic,89.69,1061.47,Yes
+Male,0,Yes,No,26,Yes,DSL,58.42,2906.66,Yes
+Female,0,No,Yes,50,Yes,No,93.71,1720.98,No
+Male,0,No,No,25,No,No,111.53,2695.57,Yes
+Female,0,No,No,24,Yes,Fiber optic,115.87,2311.39,No
+Male,1,No,No,13,Yes,DSL,25.79,2932.14,No
+Female,0,Yes,Yes,60,Yes,DSL,59.45,2013.5,Yes
+Male,0,No,Yes,7,No,No,30.68,3494.38,Yes
+Male,0,Yes,No,57,No,DSL,53.57,916.74,Yes
+Female,1,Yes,Yes,36,No,No,36.97,3488.58,No
+Male,0,Yes,Yes,45,Yes,DSL,84.68,2070.07,Yes
+Female,0,Yes,Yes,20,Yes,No,58.83,4374.1,No
+Female,1,No,Yes,65,No,DSL,42.94,2585.88,Yes
+Female,0,Yes,Yes,8,Yes,Fiber optic,46.59,4866.09,No
+Female,0,Yes,Yes,16,Yes,DSL,56.03,3017.64,No
+Female,0,Yes,No,14,No,DSL,45.99,1134.77,Yes
+Female,0,No,No,15,No,Fiber optic,65.32,4112.52,No
+Female,0,No,Yes,66,Yes,DSL,23.23,1738.51,No
+Female,1,No,No,32,Yes,Fiber optic,47.98,1751.14,Yes
+Female,1,No,No,63,Yes,DSL,61.12,178.39,No
+Female,1,Yes,No,51,No,No,80.28,2752.6,Yes
+Female,0,Yes,No,25,No,No,47.1,2681.43,No
+Male,0,No,Yes,58,No,DSL,33.32,1792.84,Yes
